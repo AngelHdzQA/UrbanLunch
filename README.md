@@ -1,3 +1,18 @@
-# UrbanLunch
-Es una aplicación móvil para Android que permite al usuario pedir comidas de diferentes restaurantes y que este lo pueda recoger en un restaurante en especifico.
-Las pruebas del software se realizar en Android Studio con un dispositivo Honor 8 cargado con Android 9 pie. En este repositorio se encontra la documentación realizada para las pruebas a la app.
+# 🍽️ Urban Lunch app testing report
+
+## 📌 Overview
+A mobile application was tested that enables users to order food from multiple restaurants in a single order while receiving real-time delivery notifications. The goal was to validate its functionality and ensure a seamless user experience.
+
+## 🛠️ Testing approach
+- **Functional & UI Testing**: Focused on the behavior and responsiveness of the application on **Android devices**.
+- **Execution & Debugging**: Utilized **Android Studio** for test execution.
+- **Design Validation**: Verified UI consistency using **Figma**.
+- **Bug Tracking**: Logged and monitored issues in **JIRA**.
+
+## 🔍 Key findings
+- Evaluated key functions and graphical user interface (GUI) components.
+- Identified **14 bugs** affecting usability and performance.
+- Suggested UI and functionality improvements to enhance user experience.
+
+## 🚀 Impact and recommendations
+The proposed enhancements aim to improve system **stability, navigation efficiency, and overall usability**, ensuring a smoother and more
